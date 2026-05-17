@@ -152,7 +152,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👨‍💻 Author
 **Your Name**  
 📧 your.email@example.com  
- [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+ [LinkedIn](linkedin.com/in/muhamad-rizki-8b85a0384) | [GitHub](https://github.com/MuhamadRizki10R2)
 
 ---
 
